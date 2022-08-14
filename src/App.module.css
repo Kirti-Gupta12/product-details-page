@@ -1,0 +1,39 @@
+body{
+  font-family: 'Source Sans Pro',sans-serif;
+}
+/* .topBar{
+  background-color: #282c34;
+  text-align: center;
+  padding: 24px 0px 12px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.topBar img{
+  width: 100px;
+} */
+
+.mainContainer{
+  box-sizing: border-box;
+  padding: 4% 12%;
+  margin-top: 32px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.productPreview{
+  width: 50%;
+  position: relative;
+}
+.productPreview img{
+  width: 100%;
+}
+
+.productData{
+  width: 50%;
+}
+
+

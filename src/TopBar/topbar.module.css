@@ -1,0 +1,13 @@
+.topBar{
+    background-color: #282c34;
+    text-align: center;
+    padding: 24px 0px 12px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .topBar img{
+    width: 100px;
+  }
