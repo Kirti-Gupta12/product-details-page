@@ -1,3 +1,19 @@
+# About
+<br>
+📌Created a responsive Product Page using reactJs, with watch displaying features like time and heart-rate with different variety of colours.
+<br><br>
+Here is its overview...
+
+
+
+
+
+https://user-images.githubusercontent.com/87939523/186522202-61108812-cb46-4f3a-9118-e1d27ca081c8.mp4
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
